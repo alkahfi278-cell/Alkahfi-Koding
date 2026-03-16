@@ -40,7 +40,7 @@ export default function HeroSection() {
               {/* Photo container */}
               <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-background shadow-2xl">
                 <img
-                  src="/foto-profile.jpg"   /* ← ganti dengan path foto Anda */
+                  src="/FOTO AK.jpeg"   /* ← ganti dengan path foto Anda */
                   alt="Foto Profil Alghi"
                   className="w-full h-full object-cover"
                   onError={(e) => {
