@@ -15,9 +15,9 @@ export default function AboutSection() {
   const accordionData = [
     {
       title: "Passionate Developer",
-      content: "Saya adalah seorang Fullstack Web Developer dengan passion yang kuat dalam menciptakan solusi digital yang inovatif.",
-      content2: "Dengan pengalaman lebih dari 5 tahun, saya telah membantu berbagai klien dalam mewujudkan ide-ide mereka menjadi aplikasi web yang powerful. Saya selalu haus akan teknologi baru.",
-      content3: "Saya fokus pada performa, keamanan, dan pengalaman pengguna (UX) yang luar biasa di setiap baris kode yang saya tulis"
+      content: "saya adalah seorang siswa MAN 1 Banda Aceh,saya adalah atlet taekwondo.",
+      content2: "cita cita saya ingin menjadi Abdi Negara khususnya di bidang ilmu ke masyarakatan.",
+      content3: "saya sangat menyukai mata pelajaran olahraga contohnya : berenang,lari,bola,dll."
     },
     {
       title: "Creative Content Creator",
