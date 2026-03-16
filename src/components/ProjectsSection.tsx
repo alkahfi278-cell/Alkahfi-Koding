@@ -94,8 +94,8 @@ const CardCarousel = ({ images }: { images: string[] }) => {
 // 3. Data Projects
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'Platform e-commerce modern dengan fitur lengkap termasuk payment gateway, inventory management, dan analytics dashboard.',
+    title: 'Menang di Ajang Taekwondo',
+    description: 'MERAIH MENDALI EMAS DI UNDER 55-58kg dashboard.',
     tags: ['React', 'Node.js', 'PostgreSQL', 'Stripe'],
     image: [PetirImg, JoinUsGif, WeatherImg],
     color: 'from-blue-500/20 to-cyan-500/20',
@@ -103,8 +103,8 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'Learning Management System',
-    description: 'Platform pembelajaran online dengan video streaming, quiz interaktif, dan progress tracking.',
+    title: 'Menang Lomba Sempoa Sip',
+    description: 'Meraih Juara 3 Antar Daerah.',
     tags: ['Next.js', 'TypeScript', 'MongoDB', 'WebRTC'],
     image: [JoinUsGif, PetirImg, WeatherImg],
     color: 'from-purple-500/20 to-pink-500/20',
@@ -112,8 +112,8 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'AI Content Generator',
-    description: 'Tool untuk generate konten menggunakan AI dengan integrasi berbagai model language.',
+    title: 'MENGIKUTI PASKIBRAKA',
+    description: 'MENGIKUTI SELEKSI NASIONAL',
     tags: ['Python', 'FastAPI', 'OpenAI', 'React'],
     image: [ WeatherImg, PetirImg, JoinUsGif],
     color: 'from-green-500/20 to-teal-500/20',
