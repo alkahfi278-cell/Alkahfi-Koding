@@ -69,7 +69,7 @@ export default function SkillsSection() {
         </motion.div>
 
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-          {/* Frontend */}
+          {/* melukis */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -81,7 +81,7 @@ export default function SkillsSection() {
               <div className="p-3 rounded-xl bg-primary/10">
                 <span className="text-2xl">🎨</span>
               </div>
-              <h3 className="font-display text-xl font-bold">Frontend</h3>
+              <h3 className="font-display text-xl font-bold">melukis</h3>
             </div>
             <div className="space-y-4">
               {skills.frontend.map((skill, index) => (
@@ -90,7 +90,7 @@ export default function SkillsSection() {
             </div>
           </motion.div>
 
-          {/* Backend */}
+          {/* Bengkel */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -102,7 +102,7 @@ export default function SkillsSection() {
               <div className="p-3 rounded-xl bg-primary/10">
                 <span className="text-2xl">⚙️</span>
               </div>
-              <h3 className="font-display text-xl font-bold">Backend</h3>
+              <h3 className="font-display text-xl font-bold">Pengaturan</h3>
             </div>
             <div className="space-y-4">
               {skills.backend.map((skill, index) => (
@@ -123,7 +123,7 @@ export default function SkillsSection() {
               <div className="p-3 rounded-xl bg-primary/10">
                 <span className="text-2xl">🛠️</span>
               </div>
-              <h3 className="font-display text-xl font-bold">DevOps</h3>
+              <h3 className="font-display text-xl font-bold">Alat dan Bahan</h3>
             </div>
             <div className="space-y-4">
               {skills.DevOps.map((skill, index) => (
